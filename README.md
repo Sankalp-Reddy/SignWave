@@ -17,9 +17,15 @@ Beautify you name.
     - Lucide Icons: Beautiful and customizable icons.
 
 4. **Installation**
-    1. Clone the repository:
-    2. Install dependencies:
-    3. Run the development server:
+    1. Clone the repository
+       ```bash
+       git clone https://github.com/Sankalp-Reddy/SignWave.git
+    2. Install dependencies
+       ```bash
+       npm install
+    3. Run the development server
+       ```bash
+       npm run dev
     4. Open http://localhost:3000 to view it in the browser.
 
 5. **Scripts**
@@ -34,5 +40,3 @@ Beautify you name.
 7. **License**
     - This project is licensed under the MIT License.
 
-Feel free to modify any sections as needed. Let me know if there's anything else you'd like to add.
-```
