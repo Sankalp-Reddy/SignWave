@@ -8,6 +8,7 @@ Beautify you name.
     - Signature Customization: Choose from different styles, fonts, and colors.
     - Export Options: Download your signature as PNG or SVG.
     - Responsive Design: Works seamlessly on all devices.
+    - Live Demo: Check out the deployed app [here](https://v0-style-eight.vercel.app/).
 
 3. **Technologies Used**
     - Next.js: Framework for server-rendered React applications.
